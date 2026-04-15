@@ -7,6 +7,8 @@
 
 # Eufy RobovVac control for Home Assistant
 
+# [This repo is archived and superseeded by robovac-damascus](https://github.com/maximoei/robovac-damascus/) #
+
 # This version is specifically adjusted for L60 and similar devices #
 
 A brand new version Eufy RoboVac integration for Home Assistant that includes a Config Flow to add your RoboVac(s) and the local key and ID required.  All you need to do is enter your Eufy app credentials and the Config Flow will look up the details for you. After the initial config use the configuration button on the Integration to enter the RoboVac IP address when prompted.
